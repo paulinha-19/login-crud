@@ -1,0 +1,4 @@
+Após a autenticação bem-sucedida do usuário, as variáveis ​​de sessão serão inicializadas e lembradas ao longo de todo o 
+processo. Essas variáveis ​​de sessão são armazenadas no servidor e no navegador do usuário, pois usaremos essas variáveis 
+​​para determinar se o usuário está conectado ou não, e para associar as variáveis ​​de sessão aos resultados recuperados do 
+banco de dados MySQL.
